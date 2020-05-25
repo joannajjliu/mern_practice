@@ -1,4 +1,4 @@
-## Notes:
+### Notes:
 - backend folder is usually separate from frontend folder:
     - But for simplicity, both folders will be located in the same location, for this app.
 ### Folders: 
