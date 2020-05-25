@@ -1,4 +1,5 @@
 ### Notes:
+- Tutorial from Youtube - freeCodeCamp: "learn the MERN Stack - Full Tutorial (MongoDB, Express, React, Node.js)"
 - backend folder is usually separate from frontend folder:
     - But for simplicity, both folders will be located in the same location, for this app.
 ### Folders: 
